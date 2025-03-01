@@ -1,0 +1,10 @@
+:root{
+    --container-background: hsl(0, 0%, 100%);
+    --main-background: hsl(30, 54%, 90%);
+    --text-color: hsl(30, 10%, 34%);
+    --bold-text-color: hsl(24, 5%, 18%);
+    --sweet-stone: hsl(30, 18%, 87%);
+    --brown-subtitles: hsl(14, 45%, 36%);
+    --dark-rose: hsl(332, 51%, 32%);
+    --sweet-rose: hsl(330, 100%, 98%);
+}
